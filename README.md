@@ -17,7 +17,5 @@
 - pandas
 - numpy
 
-## Note
-I am a beginner python developer. Therefore, the project is not perfect and beautiful, I know that. However, i'm looking to improve.
 
 <img src="images/image.png">
